@@ -17,7 +17,7 @@ const page = () => {
             <div className='grid grid-cols-1 md:grid-cols-4 gap-6 mt-10'>
                 <div className="max-w-26 rounded-lg overflow-hidden shadow-lg bg-white">
                     <Image src={Education1} alt="education1" />
-                    <div class="p-6">
+                    <div className="p-6">
                         <h4 className="text-[#07222C] font-bold text-xl">One-on-One Monitoring</h4>
                         <p className="text-[#565A5B] text-xl mt-2">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -35,7 +35,7 @@ const page = () => {
                 </div>
                 <div className="max-w-26 rounded-lg overflow-hidden shadow-lg bg-white">
                     <Image src={Education3} alt="education1" />
-                    <div class="p-6">
+                    <div className="p-6">
                         <h4 className="text-[#07222C] font-bold text-xl"> Whiteboard</h4>
                         <p className="text-[#565A5B] text-xl mt-2">
                             Lorem Ipsum is simply dummy text of the printing and typesetting industry.
