@@ -20,7 +20,7 @@ const page = () => {
                         </div>
                         <hr />
                         <div className={'flex gap-5 mt-5'}>
-                            <Image src={Icone1} alt={'icone'} width={40} height={40} />
+                            <Image src={Icone1} alt={'icone'} width={60} height={60} />
                             <div className='text-start items-center'>
                                 <p className='text-[#534D5E]'>Beth Luna</p>
                                 <div className="rating">
@@ -41,7 +41,7 @@ const page = () => {
                         </div>
                         <hr />
                         <div className={'flex gap-5 mt-5'}>
-                            <Image src={Icone2} alt={'icone'} width={40} height={40} />
+                            <Image src={Icone2} alt={'icone'} width={60} height={60} />
                             <div className='text-start items-center'>
                                 <p className='text-[#534D5E]'>Beth Luna</p>
                                 <div className="rating">
@@ -62,7 +62,7 @@ const page = () => {
                         </div>
                         <hr />
                         <div className={'flex gap-5 mt-5'}>
-                            <Image src={Icone3} alt={'icone'} width={40} height={40} />
+                            <Image src={Icone3} alt={'icone'} width={60} height={60} />
                             <div className='text-start items-center'>
                                 <p className='text-[#534D5E]'>Beth Luna</p>
                                 <div className="rating">
